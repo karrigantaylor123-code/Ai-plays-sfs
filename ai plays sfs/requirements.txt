@@ -4,4 +4,4 @@ python
 pillow
 ollama
 llama3.2-vision
-gemma3.2:4b
+gemma3:4b
