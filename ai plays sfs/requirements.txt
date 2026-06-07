@@ -5,3 +5,4 @@ pillow
 ollama
 llama3.2-vision
 gemma3:4b
+keyboard
