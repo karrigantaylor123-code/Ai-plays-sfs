@@ -1,4 +1,4 @@
 requests
 pyautogui
 python
-pillows
+pillow
