@@ -2,3 +2,5 @@ requests
 pyautogui
 python
 pillow
+ollama gemma3:4b or
+llama3.2-vision
